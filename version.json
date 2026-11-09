@@ -1,0 +1,8 @@
+{
+    "versionCode":  2,
+    "versionName":  "1.1.0",
+    "notes":  "Print buttons for recipes, the meal plan and the shopping list, and updates from inside the app (Settings \u003e Check for updates).",
+    "apkUrl":  "https://github.com/DangerPencil/meal-planner-releases/releases/download/v1.1.0/MealPlanner-1.1.0.apk",
+    "md5":  "ec736da5c7bd1434d497a37efea6402d",
+    "sha256":  "ecd3cf704544477f11ea17e2c364e26b45b7d32461842b0fe0ab43ba4148d6d3"
+}
