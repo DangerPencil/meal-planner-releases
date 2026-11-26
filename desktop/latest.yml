@@ -1,8 +1,8 @@
-version: 1.2.1
+version: 1.2.2
 files:
-  - url: https://github.com/DangerPencil/meal-planner-releases/releases/download/desktop-v1.2.1/MealPlanner-Setup-1.2.1.exe
-    sha512: AV1Cij6Oh8CXXEYiBQBu7Ri2sZyanYwK1TKzLNO5k4a+26KYoLKZjZNVzq2FK75ZDDxx6TFj7geJh0r3ADEfcQ==
-    size: 103228858
-path: https://github.com/DangerPencil/meal-planner-releases/releases/download/desktop-v1.2.1/MealPlanner-Setup-1.2.1.exe
-sha512: AV1Cij6Oh8CXXEYiBQBu7Ri2sZyanYwK1TKzLNO5k4a+26KYoLKZjZNVzq2FK75ZDDxx6TFj7geJh0r3ADEfcQ==
-releaseDate: '2026-11-25T07:30:26.343Z'
+  - url: https://github.com/DangerPencil/meal-planner-releases/releases/download/desktop-v1.2.2/MealPlanner-Setup-1.2.2.exe
+    sha512: c3k96bL7rGGQS7fOGBn5bNW9xSqGHjNbHtZpVqZmo+CWu1Ql/lF2e78DrFznuH6YnPSQujZVdLeJ3+cRzS+efw==
+    size: 103229171
+path: https://github.com/DangerPencil/meal-planner-releases/releases/download/desktop-v1.2.2/MealPlanner-Setup-1.2.2.exe
+sha512: c3k96bL7rGGQS7fOGBn5bNW9xSqGHjNbHtZpVqZmo+CWu1Ql/lF2e78DrFznuH6YnPSQujZVdLeJ3+cRzS+efw==
+releaseDate: '2026-11-26T01:21:34.544Z'
